@@ -1,7 +1,7 @@
 # Site settings
 title: CSNR
 subtitle: 
-email: csnecology@gmail.com
+email: macaquenet@gmail.com
 description: Comparative Social Network Ecology - provides a summary for those interested in comparative research of which databases are available.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://comparative-social-network-ecology.github.io" # the base hostname & protocol for your site
