@@ -19,3 +19,12 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Disables sidebar for now
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      sidebar: false
+
