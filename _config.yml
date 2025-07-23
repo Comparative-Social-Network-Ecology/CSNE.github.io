@@ -1,15 +1,16 @@
 # Site settings
-title: CSNR
+title: MacaqueNet
 subtitle: 
 email: macaquenet@gmail.com
-description: Comparative Social Network Ecology - provides a summary for those interested in comparative research of which databases are available.
+description: A Global Collaboration Of Macaque Researchers
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://comparative-social-network-ecology.github.io" # the base hostname & protocol for your site
-author: CSNE
+url: "https://macaquenet.github.io" # the base hostname & protocol for your site
+author: MacaqueNet
 lang: en_US
 
 # Social settings
-github_url: https://github.com/CSNR
+github_url: https://github.com/MacaqueNet
+slack_url: https://join.slack.com/t/macaquenet/shared_invite/zt-17eioou5f-yIj4BS~wfz~OUo9mCDFdjA
 
 # Build settings
 markdown: kramdown
